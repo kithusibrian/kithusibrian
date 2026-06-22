@@ -71,8 +71,6 @@ An AI-driven full-stack vehicle marketplace that enables dealerships to manage i
 
 **Core Highlights:***
 
-Core Highlights:
-
 * AI vehicle data extraction from images (Google Gemini Vision)
 * Intelligent marketplace search (text + image-based discovery)
 * Advanced filtering system for makes, models, and pricing
