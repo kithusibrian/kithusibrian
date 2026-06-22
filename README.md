@@ -47,7 +47,7 @@ Git • GitHub • VS Code
 
 ## 📂 Featured Projects
 
-### 💰 Foretrack – AI-Powered Finance Management Platform
+### 1. 💰 Foretrack – AI-Powered Finance Management Platform
 
 A production-style full-stack application that helps users track finances, manage budgets, and receive AI-powered financial insights and automated reports.
 
@@ -62,8 +62,22 @@ A production-style full-stack application that helps users track finances, manag
 * Receipt scanning with AI data extraction
 * Recurring transaction automation system
 * Secure authentication (JWT + Google OAuth)
-
 ---
+### 2. 🚗 **CarsAI – AI-Powered Vehicle Marketplace
+An AI-driven full-stack vehicle marketplace that enables dealerships to manage inventory efficiently while allowing users to discover, filter, and book vehicles through intelligent search and automation.
+
+🔗 Live Demo: [(https://ai-powered-vehicles-website.vercel.app/)]
+💻 GitHub: [(https://github.com/kithusibrian/AI-Powered-Vehicles-Website)]
+
+**Core Highlights:***
+
+AI vehicle data extraction from images (Google Gemini Vision)
+Intelligent marketplace search (text + image-based discovery)
+Advanced filtering system for makes, models, and pricing
+Test drive booking and reservation management system
+Admin dashboard for full inventory control
+Secure authentication and role-based access control
+Scalable full-stack architecture (Next.js + PostgreSQL + Prisma)
 
 ---
 
