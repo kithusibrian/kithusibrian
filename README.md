@@ -47,21 +47,23 @@ Git • GitHub • VS Code
 
 ## 📂 Featured Projects
 
-### 🌍 Project One (Placeholder)
+### 💰 Foretrack – AI-Powered Finance Management Platform
 
-Description will be added here.
+A production-style full-stack application that helps users track finances, manage budgets, and receive AI-powered financial insights and automated reports.
 
-### 🛒 Project Two (Placeholder)
+🔗 Live Demo: https://foretrack-pi.vercel.app/
+💻 GitHub: https://github.com/kithusibrian/Foretrack/
 
-Description will be added here.
+**Core Highlights:**
 
-### 👥 Project Three (Placeholder)
+* AI Financial Coach (Google Gemini integration)
+* Automated monthly financial reports via email
+* Budget tracking with real-time progress analytics
+* Receipt scanning with AI data extraction
+* Recurring transaction automation system
+* Secure authentication (JWT + Google OAuth)
 
-Description will be added here.
-
-### ⚡ Project Four (Placeholder)
-
-Description will be added here.
+---
 
 ---
 
