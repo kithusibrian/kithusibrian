@@ -71,13 +71,15 @@ An AI-driven full-stack vehicle marketplace that enables dealerships to manage i
 
 **Core Highlights:***
 
-AI vehicle data extraction from images (Google Gemini Vision)
-Intelligent marketplace search (text + image-based discovery)
-Advanced filtering system for makes, models, and pricing
-Test drive booking and reservation management system
-Admin dashboard for full inventory control
-Secure authentication and role-based access control
-Scalable full-stack architecture (Next.js + PostgreSQL + Prisma)
+Core Highlights:
+
+* AI vehicle data extraction from images (Google Gemini Vision)
+* Intelligent marketplace search (text + image-based discovery)
+* Advanced filtering system for makes, models, and pricing
+* Test drive booking and reservation management system
+* Admin dashboard for full inventory control
+* Secure authentication and role-based access control
+* Scalable full-stack architecture (Next.js + PostgreSQL + Prisma)
 
 ---
 
