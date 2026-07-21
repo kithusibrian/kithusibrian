@@ -102,7 +102,7 @@ An AI-driven full-stack vehicle marketplace that enables dealerships to manage i
 
 ## 📫 Connect With Me
 
-LinkedIn: [www.linkedin.com/in/briankithusi](http://www.linkedin.com/in/briankithusi)
-GitHub: [(https://github.com/kithusibrian)]
-Portfolio: Coming Soon
+Portfolio: [https://personal-portfolio-five-livid-75.vercel.app/]
+GitHub: [https://github.com/kithusibrian]
+
 
