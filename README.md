@@ -20,6 +20,7 @@ Beyond software development, I have practical experience supporting enterprise I
 - 🔐 Authentication & Application Security
 - 🖥️ Enterprise ICT Support & Systems Administration
 - 📈 Software Architecture & Performance Optimization
+- 📈 Machine Learning
 
 ---
 
